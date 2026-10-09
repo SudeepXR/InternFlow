@@ -1,0 +1,55 @@
+name: internflow
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: internflow
+      POSTGRES_USER: internflow
+      POSTGRES_PASSWORD: internflow_dev
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U internflow -d internflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+  mongodb:
+    image: mongo:8
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: internflow
+      MONGO_INITDB_ROOT_PASSWORD: internflow_dev
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--username", "internflow", "--password", "internflow_dev", "--authenticationDatabase", "admin", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 15
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      DATABASE_URL: postgresql+psycopg://internflow:internflow_dev@postgres:5432/internflow
+      MONGODB_URI: mongodb://internflow:internflow_dev@mongodb:27017/internflow?authSource=admin
+      MONGODB_DATABASE: internflow
+      ENABLE_AI: "${ENABLE_AI:-false}"
+      OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
+      OPENAI_MODEL: "${OPENAI_MODEL:-gpt-4o-mini}"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mongodb:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+volumes:
+  postgres_data:
+  mongodb_data:

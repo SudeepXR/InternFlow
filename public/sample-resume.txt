@@ -1,0 +1,15 @@
+Alex Morgan
+alex@example.com
+College: RV College of Engineering
+Branch: CSE
+3rd year Computer Science student
+CGPA: 8.6
+Skills: Python, C++, React, JavaScript, SQL, Git, MongoDB, DSA
+
+Projects
+Campus Connect - A React and MongoDB platform for college communities.
+QueryCraft - A SQL and Python database query visualizer.
+Smart Traffic Vision - Python image processing for traffic-flow insights.
+
+Experience
+Software intern at a campus innovation lab, 3 months.

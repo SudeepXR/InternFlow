@@ -1,0 +1,10 @@
+node_modules
+.npm-cache
+.venv
+.env
+.git
+dist
+backend/data
+**/__pycache__
+artifacts
+*.log

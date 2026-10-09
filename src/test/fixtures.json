@@ -1,0 +1,3482 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Alex Morgan",
+    "email": "alex@example.com",
+    "college": "RV College of Engineering",
+    "branch": "CSE",
+    "year": 3,
+    "cgpa": 8.6,
+    "graduation_year": 2028,
+    "bio": "Third-year CS student building thoughtful products with Python and React. Interested in software engineering and applied ML.",
+    "experience_months": 3,
+    "skills": [
+      "Python",
+      "C++",
+      "React",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "MongoDB",
+      "DSA"
+    ],
+    "domains": [
+      "Machine Learning",
+      "Software Development"
+    ],
+    "locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "projects": [
+      {
+        "title": "Campus Connect",
+        "description": "A React and MongoDB platform for college communities.",
+        "domain": "Software Development"
+      },
+      {
+        "title": "Smart Traffic Vision",
+        "description": "Python image processing for traffic-flow insights.",
+        "domain": "Machine Learning"
+      },
+      {
+        "title": "QueryCraft",
+        "description": "SQL and Python database query visualizer.",
+        "domain": "Software Development"
+      }
+    ]
+  },
+  "internships": [
+    {
+      "id": 1,
+      "role": "Software Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "Hybrid",
+      "stipend": 50000,
+      "duration_months": 6,
+      "min_cgpa": 7.5,
+      "eligible_year": 3,
+      "eligible_branch": "CSE, ECE, ISE",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Microsoft",
+      "color": "#b29037",
+      "skills": [
+        "Python",
+        "C++",
+        "DSA"
+      ],
+      "dates": {
+        "deadline": "2026-10-12T23:59:00+05:30",
+        "oa": "2026-10-14T10:00:00+05:30",
+        "ppt": "2026-10-11T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": {
+        "id": 1,
+        "status": "Assessment"
+      },
+      "match": {
+        "score": 100,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "C++",
+          "DSA"
+        ],
+        "missing_skills": [],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 40.0,
+            "max": 40,
+            "detail": "3 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 100
+      }
+    },
+    {
+      "id": 2,
+      "role": "Frontend Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "Hybrid",
+      "stipend": 45000,
+      "duration_months": 3,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Razorpay",
+      "color": "#2a78a1",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Git"
+      ],
+      "dates": {
+        "deadline": "2026-10-14T23:59:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": {
+        "id": 2,
+        "status": "Applied"
+      },
+      "match": {
+        "score": 100,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "React",
+          "JavaScript",
+          "Git"
+        ],
+        "missing_skills": [],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 40.0,
+            "max": 40,
+            "detail": "3 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "2 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 100
+      }
+    },
+    {
+      "id": 11,
+      "role": "Full Stack Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "Hybrid",
+      "stipend": 35000,
+      "duration_months": 3,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Swiggy",
+      "color": "#b75c39",
+      "skills": [
+        "React",
+        "Git",
+        "MongoDB",
+        "Node.js"
+      ],
+      "dates": {
+        "deadline": "2026-10-15T23:59:00+05:30",
+        "ppt": "2026-10-14T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": {
+        "id": 4,
+        "status": "Interview"
+      },
+      "match": {
+        "score": 90,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "React",
+          "Git",
+          "MongoDB"
+        ],
+        "missing_skills": [
+          "Node.js"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 30.0,
+            "max": 40,
+            "detail": "3 of 4 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "2 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 90
+      }
+    },
+    {
+      "id": 3,
+      "role": "Software Development Intern",
+      "domain": "Software Development",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "stipend": 60000,
+      "duration_months": 3,
+      "min_cgpa": 7.5,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Atlassian",
+      "color": "#b29037",
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker"
+      ],
+      "dates": {
+        "deadline": "2026-10-16T23:59:00+05:30",
+        "oa": "2026-10-18T10:00:00+05:30",
+        "ppt": "2026-10-15T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": {
+        "id": 3,
+        "status": "Draft"
+      },
+      "match": {
+        "score": 87,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "SQL"
+        ],
+        "missing_skills": [
+          "Docker"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 26.7,
+            "max": 40,
+            "detail": "2 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Remote"
+          }
+        ],
+        "uncapped_score": 87
+      }
+    },
+    {
+      "id": 7,
+      "role": "Backend Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "On-site",
+      "stipend": 40000,
+      "duration_months": 6,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Zepto",
+      "color": "#426447",
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker"
+      ],
+      "dates": {
+        "deadline": "2026-10-21T23:59:00+05:30",
+        "oa": "2026-10-23T10:00:00+05:30",
+        "ppt": "2026-10-20T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": null,
+      "match": {
+        "score": 87,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "SQL"
+        ],
+        "missing_skills": [
+          "Docker"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 26.7,
+            "max": 40,
+            "detail": "2 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 87
+      }
+    },
+    {
+      "id": 12,
+      "role": "Software Intern",
+      "domain": "Software Development",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "stipend": 25000,
+      "duration_months": 3,
+      "min_cgpa": 6.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "UPL",
+      "color": "#2a78a1",
+      "skills": [
+        "Python",
+        "C++",
+        "Java"
+      ],
+      "dates": {
+        "deadline": "2026-10-20T23:59:00+05:30",
+        "oa": "2026-10-22T10:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": null,
+      "match": {
+        "score": 87,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "C++"
+        ],
+        "missing_skills": [
+          "Java"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 26.7,
+            "max": 40,
+            "detail": "2 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Remote"
+          }
+        ],
+        "uncapped_score": 87
+      }
+    },
+    {
+      "id": 5,
+      "role": "Cloud Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "On-site",
+      "stipend": 55000,
+      "duration_months": 3,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "CSE, ECE, ISE",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Amazon",
+      "color": "#b75c39",
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS"
+      ],
+      "dates": {
+        "deadline": "2026-10-13T23:59:00+05:30",
+        "ppt": "2026-10-12T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": null,
+      "match": {
+        "score": 80,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "SQL"
+        ],
+        "missing_skills": [
+          "Docker",
+          "AWS"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 20.0,
+            "max": 40,
+            "detail": "2 of 4 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 80
+      }
+    },
+    {
+      "id": 4,
+      "role": "Student Researcher · ML",
+      "domain": "Machine Learning",
+      "location": "Bengaluru",
+      "work_mode": "On-site",
+      "stipend": 65000,
+      "duration_months": 6,
+      "min_cgpa": 8.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Google",
+      "color": "#b75c39",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning"
+      ],
+      "dates": {
+        "deadline": "2026-10-19T23:59:00+05:30",
+        "oa": "2026-10-21T10:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": null,
+      "match": {
+        "score": 73,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python"
+        ],
+        "missing_skills": [
+          "PyTorch",
+          "Machine Learning"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 13.3,
+            "max": 40,
+            "detail": "1 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "2 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Machine Learning"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 73
+      }
+    },
+    {
+      "id": 9,
+      "role": "Platform Engineering Intern",
+      "domain": "Software Development",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "stipend": 70000,
+      "duration_months": 3,
+      "min_cgpa": 8.0,
+      "eligible_year": 3,
+      "eligible_branch": "CSE, ECE, ISE",
+      "experience_months": 3,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Stripe",
+      "color": "#b75c39",
+      "skills": [
+        "Python",
+        "Docker",
+        "AWS",
+        "Linux"
+      ],
+      "dates": {
+        "deadline": "2026-10-25T23:59:00+05:30",
+        "oa": "2026-10-27T10:00:00+05:30",
+        "ppt": "2026-10-24T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": null,
+      "match": {
+        "score": 70,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python"
+        ],
+        "missing_skills": [
+          "Docker",
+          "AWS",
+          "Linux"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 10.0,
+            "max": 40,
+            "detail": "1 of 4 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "3 months requested"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Remote"
+          }
+        ],
+        "uncapped_score": 70
+      }
+    },
+    {
+      "id": 6,
+      "role": "Data Analytics Intern",
+      "domain": "Data Analytics",
+      "location": "Hyderabad",
+      "work_mode": "Hybrid",
+      "stipend": 30000,
+      "duration_months": 3,
+      "min_cgpa": 6.5,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Deloitte",
+      "color": "#2a78a1",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "dates": {
+        "deadline": "2026-10-18T23:59:00+05:30",
+        "oa": "2026-10-20T10:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": null,
+      "match": {
+        "score": 65,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "SQL"
+        ],
+        "missing_skills": [
+          "Excel",
+          "Power BI"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 20.0,
+            "max": 40,
+            "detail": "2 of 4 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "2 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 0,
+            "max": 10,
+            "detail": "Data Analytics"
+          },
+          {
+            "name": "Location",
+            "score": 0,
+            "max": 5,
+            "detail": "Hyderabad"
+          }
+        ],
+        "uncapped_score": 65
+      }
+    },
+    {
+      "id": 10,
+      "role": "Deep Learning Intern",
+      "domain": "Machine Learning",
+      "location": "Pune",
+      "work_mode": "On-site",
+      "stipend": 60000,
+      "duration_months": 6,
+      "min_cgpa": 9.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 6,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "NVIDIA",
+      "color": "#b75c39",
+      "skills": [
+        "Python",
+        "C++",
+        "PyTorch"
+      ],
+      "dates": {
+        "deadline": "2026-10-17T23:59:00+05:30",
+        "oa": "2026-10-19T10:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": null,
+      "match": {
+        "score": 49,
+        "eligible": false,
+        "eligibility_reasons": [
+          "CGPA must be at least 9.0"
+        ],
+        "matched_skills": [
+          "Python",
+          "C++"
+        ],
+        "missing_skills": [
+          "PyTorch"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 26.7,
+            "max": 40,
+            "detail": "2 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 0,
+            "max": 20,
+            "detail": "CGPA must be at least 9.0"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "2 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 5.0,
+            "max": 10,
+            "detail": "6 months requested"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Machine Learning"
+          },
+          {
+            "name": "Location",
+            "score": 0,
+            "max": 5,
+            "detail": "Pune"
+          }
+        ],
+        "uncapped_score": 57
+      }
+    },
+    {
+      "id": 8,
+      "role": "UX Design Intern",
+      "domain": "Design",
+      "location": "Remote",
+      "work_mode": "Remote",
+      "stipend": 40000,
+      "duration_months": 3,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Adobe",
+      "color": "#426447",
+      "skills": [
+        "Figma",
+        "HTML",
+        "CSS"
+      ],
+      "dates": {
+        "deadline": "2026-10-23T23:59:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": false,
+      "application": null,
+      "match": {
+        "score": 35,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [],
+        "missing_skills": [
+          "Figma",
+          "HTML",
+          "CSS"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 0.0,
+            "max": 40,
+            "detail": "0 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 0.0,
+            "max": 15,
+            "detail": "0 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 0,
+            "max": 10,
+            "detail": "Design"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Remote"
+          }
+        ],
+        "uncapped_score": 35
+      }
+    }
+  ],
+  "dashboard": {
+    "opportunities": 12,
+    "strong_matches": 7,
+    "applications": 3,
+    "due_this_week": 4,
+    "upcoming": [
+      {
+        "id": 3,
+        "internship_id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "color": "#b29037",
+        "kind": "ppt",
+        "starts_at": "2026-10-11T14:00:00+05:30",
+        "watched": true
+      },
+      {
+        "id": 11,
+        "internship_id": 5,
+        "company": "Amazon",
+        "role": "Cloud Engineering Intern",
+        "color": "#b75c39",
+        "kind": "ppt",
+        "starts_at": "2026-10-12T14:00:00+05:30",
+        "watched": false
+      },
+      {
+        "id": 1,
+        "internship_id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "color": "#b29037",
+        "kind": "deadline",
+        "starts_at": "2026-10-12T23:59:00+05:30",
+        "watched": true
+      },
+      {
+        "id": 10,
+        "internship_id": 5,
+        "company": "Amazon",
+        "role": "Cloud Engineering Intern",
+        "color": "#b75c39",
+        "kind": "deadline",
+        "starts_at": "2026-10-13T23:59:00+05:30",
+        "watched": false
+      },
+      {
+        "id": 2,
+        "internship_id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "color": "#b29037",
+        "kind": "oa",
+        "starts_at": "2026-10-14T10:00:00+05:30",
+        "watched": true
+      },
+      {
+        "id": 24,
+        "internship_id": 11,
+        "company": "Swiggy",
+        "role": "Full Stack Intern",
+        "color": "#b75c39",
+        "kind": "ppt",
+        "starts_at": "2026-10-14T14:00:00+05:30",
+        "watched": true
+      }
+    ],
+    "notifications": [
+      {
+        "id": 3,
+        "internship_id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "color": "#b29037",
+        "kind": "ppt",
+        "starts_at": "2026-10-11T14:00:00+05:30",
+        "watched": true,
+        "message": "Pre-placement talk · Microsoft"
+      }
+    ],
+    "profile_completeness": 100
+  },
+  "applications": [
+    {
+      "id": 4,
+      "internship": {
+        "id": 11,
+        "role": "Full Stack Intern",
+        "domain": "Software Development",
+        "location": "Bengaluru",
+        "work_mode": "Hybrid",
+        "stipend": 35000,
+        "duration_months": 3,
+        "min_cgpa": 7.0,
+        "eligible_year": 3,
+        "eligible_branch": "Any",
+        "experience_months": 0,
+        "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+        "application_url": "",
+        "source": "Demo dataset",
+        "is_demo": true,
+        "company": "Swiggy",
+        "color": "#b75c39",
+        "skills": [
+          "React",
+          "Git",
+          "MongoDB",
+          "Node.js"
+        ],
+        "dates": {
+          "deadline": "2026-10-15T23:59:00+05:30",
+          "ppt": "2026-10-14T14:00:00+05:30"
+        },
+        "closed": false,
+        "bookmarked": false,
+        "application": {
+          "id": 4,
+          "status": "Interview"
+        },
+        "match": {
+          "score": 90,
+          "eligible": true,
+          "eligibility_reasons": [],
+          "matched_skills": [
+            "React",
+            "Git",
+            "MongoDB"
+          ],
+          "missing_skills": [
+            "Node.js"
+          ],
+          "factors": [
+            {
+              "name": "Skills",
+              "score": 30.0,
+              "max": 40,
+              "detail": "3 of 4 required skills"
+            },
+            {
+              "name": "Eligibility",
+              "score": 20,
+              "max": 20,
+              "detail": "CGPA, year and branch requirements met"
+            },
+            {
+              "name": "Projects",
+              "score": 15,
+              "max": 15,
+              "detail": "2 relevant projects"
+            },
+            {
+              "name": "Experience",
+              "score": 10,
+              "max": 10,
+              "detail": "No prior experience required"
+            },
+            {
+              "name": "Domain",
+              "score": 10,
+              "max": 10,
+              "detail": "Software Development"
+            },
+            {
+              "name": "Location",
+              "score": 5,
+              "max": 5,
+              "detail": "Bengaluru"
+            }
+          ],
+          "uncapped_score": 90
+        }
+      },
+      "status": "Interview",
+      "notes": "Demo application. No external submission was made.",
+      "cover_letter": "",
+      "created_at": "2026-10-09T17:00:28.976477+00:00",
+      "updated_at": "2026-10-09T17:00:28.976482+00:00",
+      "answers": {
+        "Full name": "Alex Morgan",
+        "Email": "alex@example.com",
+        "College": "RV College of Engineering",
+        "Branch": "CSE",
+        "CGPA": "8.6",
+        "Graduation year": "2028",
+        "Relevant skills": "React, Git, MongoDB"
+      },
+      "history": [
+        {
+          "from": null,
+          "to": "Interview",
+          "at": "2026-10-09T17:00:28.977235+00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "internship": {
+        "id": 3,
+        "role": "Software Development Intern",
+        "domain": "Software Development",
+        "location": "Remote",
+        "work_mode": "Remote",
+        "stipend": 60000,
+        "duration_months": 3,
+        "min_cgpa": 7.5,
+        "eligible_year": 3,
+        "eligible_branch": "Any",
+        "experience_months": 0,
+        "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+        "application_url": "",
+        "source": "Demo dataset",
+        "is_demo": true,
+        "company": "Atlassian",
+        "color": "#b29037",
+        "skills": [
+          "Python",
+          "SQL",
+          "Docker"
+        ],
+        "dates": {
+          "deadline": "2026-10-16T23:59:00+05:30",
+          "oa": "2026-10-18T10:00:00+05:30",
+          "ppt": "2026-10-15T14:00:00+05:30"
+        },
+        "closed": false,
+        "bookmarked": true,
+        "application": {
+          "id": 3,
+          "status": "Draft"
+        },
+        "match": {
+          "score": 87,
+          "eligible": true,
+          "eligibility_reasons": [],
+          "matched_skills": [
+            "Python",
+            "SQL"
+          ],
+          "missing_skills": [
+            "Docker"
+          ],
+          "factors": [
+            {
+              "name": "Skills",
+              "score": 26.7,
+              "max": 40,
+              "detail": "2 of 3 required skills"
+            },
+            {
+              "name": "Eligibility",
+              "score": 20,
+              "max": 20,
+              "detail": "CGPA, year and branch requirements met"
+            },
+            {
+              "name": "Projects",
+              "score": 15,
+              "max": 15,
+              "detail": "3 relevant projects"
+            },
+            {
+              "name": "Experience",
+              "score": 10,
+              "max": 10,
+              "detail": "No prior experience required"
+            },
+            {
+              "name": "Domain",
+              "score": 10,
+              "max": 10,
+              "detail": "Software Development"
+            },
+            {
+              "name": "Location",
+              "score": 5,
+              "max": 5,
+              "detail": "Remote"
+            }
+          ],
+          "uncapped_score": 87
+        }
+      },
+      "status": "Draft",
+      "notes": "Demo application. No external submission was made.",
+      "cover_letter": "",
+      "created_at": "2026-10-09T17:00:28.943121+00:00",
+      "updated_at": "2026-10-09T17:00:28.943126+00:00",
+      "answers": {
+        "Full name": "Alex Morgan",
+        "Email": "alex@example.com",
+        "College": "RV College of Engineering",
+        "Branch": "CSE",
+        "CGPA": "8.6",
+        "Graduation year": "2028",
+        "Relevant skills": "Python, SQL"
+      },
+      "history": [
+        {
+          "from": null,
+          "to": "Draft",
+          "at": "2026-10-09T17:00:28.944060+00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "internship": {
+        "id": 2,
+        "role": "Frontend Engineering Intern",
+        "domain": "Software Development",
+        "location": "Bengaluru",
+        "work_mode": "Hybrid",
+        "stipend": 45000,
+        "duration_months": 3,
+        "min_cgpa": 7.0,
+        "eligible_year": 3,
+        "eligible_branch": "Any",
+        "experience_months": 0,
+        "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+        "application_url": "",
+        "source": "Demo dataset",
+        "is_demo": true,
+        "company": "Razorpay",
+        "color": "#2a78a1",
+        "skills": [
+          "React",
+          "JavaScript",
+          "Git"
+        ],
+        "dates": {
+          "deadline": "2026-10-14T23:59:00+05:30"
+        },
+        "closed": false,
+        "bookmarked": false,
+        "application": {
+          "id": 2,
+          "status": "Applied"
+        },
+        "match": {
+          "score": 100,
+          "eligible": true,
+          "eligibility_reasons": [],
+          "matched_skills": [
+            "React",
+            "JavaScript",
+            "Git"
+          ],
+          "missing_skills": [],
+          "factors": [
+            {
+              "name": "Skills",
+              "score": 40.0,
+              "max": 40,
+              "detail": "3 of 3 required skills"
+            },
+            {
+              "name": "Eligibility",
+              "score": 20,
+              "max": 20,
+              "detail": "CGPA, year and branch requirements met"
+            },
+            {
+              "name": "Projects",
+              "score": 15,
+              "max": 15,
+              "detail": "2 relevant projects"
+            },
+            {
+              "name": "Experience",
+              "score": 10,
+              "max": 10,
+              "detail": "No prior experience required"
+            },
+            {
+              "name": "Domain",
+              "score": 10,
+              "max": 10,
+              "detail": "Software Development"
+            },
+            {
+              "name": "Location",
+              "score": 5,
+              "max": 5,
+              "detail": "Bengaluru"
+            }
+          ],
+          "uncapped_score": 100
+        }
+      },
+      "status": "Applied",
+      "notes": "Demo application. No external submission was made.",
+      "cover_letter": "",
+      "created_at": "2026-10-09T17:00:28.938717+00:00",
+      "updated_at": "2026-10-09T17:00:28.938722+00:00",
+      "answers": {
+        "Full name": "Alex Morgan",
+        "Email": "alex@example.com",
+        "College": "RV College of Engineering",
+        "Branch": "CSE",
+        "CGPA": "8.6",
+        "Graduation year": "2028",
+        "Relevant skills": "React, JavaScript, Git"
+      },
+      "history": [
+        {
+          "from": null,
+          "to": "Applied",
+          "at": "2026-10-09T17:00:28.939540+00:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "internship": {
+        "id": 1,
+        "role": "Software Engineering Intern",
+        "domain": "Software Development",
+        "location": "Bengaluru",
+        "work_mode": "Hybrid",
+        "stipend": 50000,
+        "duration_months": 6,
+        "min_cgpa": 7.5,
+        "eligible_year": 3,
+        "eligible_branch": "CSE, ECE, ISE",
+        "experience_months": 0,
+        "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+        "application_url": "",
+        "source": "Demo dataset",
+        "is_demo": true,
+        "company": "Microsoft",
+        "color": "#b29037",
+        "skills": [
+          "Python",
+          "C++",
+          "DSA"
+        ],
+        "dates": {
+          "deadline": "2026-10-12T23:59:00+05:30",
+          "oa": "2026-10-14T10:00:00+05:30",
+          "ppt": "2026-10-11T14:00:00+05:30"
+        },
+        "closed": false,
+        "bookmarked": true,
+        "application": {
+          "id": 1,
+          "status": "Assessment"
+        },
+        "match": {
+          "score": 100,
+          "eligible": true,
+          "eligibility_reasons": [],
+          "matched_skills": [
+            "Python",
+            "C++",
+            "DSA"
+          ],
+          "missing_skills": [],
+          "factors": [
+            {
+              "name": "Skills",
+              "score": 40.0,
+              "max": 40,
+              "detail": "3 of 3 required skills"
+            },
+            {
+              "name": "Eligibility",
+              "score": 20,
+              "max": 20,
+              "detail": "CGPA, year and branch requirements met"
+            },
+            {
+              "name": "Projects",
+              "score": 15,
+              "max": 15,
+              "detail": "3 relevant projects"
+            },
+            {
+              "name": "Experience",
+              "score": 10,
+              "max": 10,
+              "detail": "No prior experience required"
+            },
+            {
+              "name": "Domain",
+              "score": 10,
+              "max": 10,
+              "detail": "Software Development"
+            },
+            {
+              "name": "Location",
+              "score": 5,
+              "max": 5,
+              "detail": "Bengaluru"
+            }
+          ],
+          "uncapped_score": 100
+        }
+      },
+      "status": "Assessment",
+      "notes": "Demo application. No external submission was made.",
+      "cover_letter": "",
+      "created_at": "2026-10-09T17:00:28.932134+00:00",
+      "updated_at": "2026-10-09T17:00:28.932141+00:00",
+      "answers": {
+        "Full name": "Alex Morgan",
+        "Email": "alex@example.com",
+        "College": "RV College of Engineering",
+        "Branch": "CSE",
+        "CGPA": "8.6",
+        "Graduation year": "2028",
+        "Relevant skills": "Python, C++, DSA"
+      },
+      "history": [
+        {
+          "from": null,
+          "to": "Assessment",
+          "at": "2026-10-09T17:00:28.934840+00:00"
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "id": 3,
+      "internship_id": 1,
+      "company": "Microsoft",
+      "role": "Software Engineering Intern",
+      "color": "#b29037",
+      "kind": "ppt",
+      "starts_at": "2026-10-11T14:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 11,
+      "internship_id": 5,
+      "company": "Amazon",
+      "role": "Cloud Engineering Intern",
+      "color": "#b75c39",
+      "kind": "ppt",
+      "starts_at": "2026-10-12T14:00:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 1,
+      "internship_id": 1,
+      "company": "Microsoft",
+      "role": "Software Engineering Intern",
+      "color": "#b29037",
+      "kind": "deadline",
+      "starts_at": "2026-10-12T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 10,
+      "internship_id": 5,
+      "company": "Amazon",
+      "role": "Cloud Engineering Intern",
+      "color": "#b75c39",
+      "kind": "deadline",
+      "starts_at": "2026-10-13T23:59:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 2,
+      "internship_id": 1,
+      "company": "Microsoft",
+      "role": "Software Engineering Intern",
+      "color": "#b29037",
+      "kind": "oa",
+      "starts_at": "2026-10-14T10:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 24,
+      "internship_id": 11,
+      "company": "Swiggy",
+      "role": "Full Stack Intern",
+      "color": "#b75c39",
+      "kind": "ppt",
+      "starts_at": "2026-10-14T14:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 4,
+      "internship_id": 2,
+      "company": "Razorpay",
+      "role": "Frontend Engineering Intern",
+      "color": "#2a78a1",
+      "kind": "deadline",
+      "starts_at": "2026-10-14T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 7,
+      "internship_id": 3,
+      "company": "Atlassian",
+      "role": "Software Development Intern",
+      "color": "#b29037",
+      "kind": "ppt",
+      "starts_at": "2026-10-15T14:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 23,
+      "internship_id": 11,
+      "company": "Swiggy",
+      "role": "Full Stack Intern",
+      "color": "#b75c39",
+      "kind": "deadline",
+      "starts_at": "2026-10-15T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 5,
+      "internship_id": 3,
+      "company": "Atlassian",
+      "role": "Software Development Intern",
+      "color": "#b29037",
+      "kind": "deadline",
+      "starts_at": "2026-10-16T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 21,
+      "internship_id": 10,
+      "company": "NVIDIA",
+      "role": "Deep Learning Intern",
+      "color": "#b75c39",
+      "kind": "deadline",
+      "starts_at": "2026-10-17T23:59:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 6,
+      "internship_id": 3,
+      "company": "Atlassian",
+      "role": "Software Development Intern",
+      "color": "#b29037",
+      "kind": "oa",
+      "starts_at": "2026-10-18T10:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 12,
+      "internship_id": 6,
+      "company": "Deloitte",
+      "role": "Data Analytics Intern",
+      "color": "#2a78a1",
+      "kind": "deadline",
+      "starts_at": "2026-10-18T23:59:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 22,
+      "internship_id": 10,
+      "company": "NVIDIA",
+      "role": "Deep Learning Intern",
+      "color": "#b75c39",
+      "kind": "oa",
+      "starts_at": "2026-10-19T10:00:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 8,
+      "internship_id": 4,
+      "company": "Google",
+      "role": "Student Researcher · ML",
+      "color": "#b75c39",
+      "kind": "deadline",
+      "starts_at": "2026-10-19T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 13,
+      "internship_id": 6,
+      "company": "Deloitte",
+      "role": "Data Analytics Intern",
+      "color": "#2a78a1",
+      "kind": "oa",
+      "starts_at": "2026-10-20T10:00:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 16,
+      "internship_id": 7,
+      "company": "Zepto",
+      "role": "Backend Engineering Intern",
+      "color": "#426447",
+      "kind": "ppt",
+      "starts_at": "2026-10-20T14:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 25,
+      "internship_id": 12,
+      "company": "UPL",
+      "role": "Software Intern",
+      "color": "#2a78a1",
+      "kind": "deadline",
+      "starts_at": "2026-10-20T23:59:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 9,
+      "internship_id": 4,
+      "company": "Google",
+      "role": "Student Researcher · ML",
+      "color": "#b75c39",
+      "kind": "oa",
+      "starts_at": "2026-10-21T10:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 14,
+      "internship_id": 7,
+      "company": "Zepto",
+      "role": "Backend Engineering Intern",
+      "color": "#426447",
+      "kind": "deadline",
+      "starts_at": "2026-10-21T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 26,
+      "internship_id": 12,
+      "company": "UPL",
+      "role": "Software Intern",
+      "color": "#2a78a1",
+      "kind": "oa",
+      "starts_at": "2026-10-22T10:00:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 15,
+      "internship_id": 7,
+      "company": "Zepto",
+      "role": "Backend Engineering Intern",
+      "color": "#426447",
+      "kind": "oa",
+      "starts_at": "2026-10-23T10:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 17,
+      "internship_id": 8,
+      "company": "Adobe",
+      "role": "UX Design Intern",
+      "color": "#426447",
+      "kind": "deadline",
+      "starts_at": "2026-10-23T23:59:00+05:30",
+      "watched": false
+    },
+    {
+      "id": 20,
+      "internship_id": 9,
+      "company": "Stripe",
+      "role": "Platform Engineering Intern",
+      "color": "#b75c39",
+      "kind": "ppt",
+      "starts_at": "2026-10-24T14:00:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 18,
+      "internship_id": 9,
+      "company": "Stripe",
+      "role": "Platform Engineering Intern",
+      "color": "#b75c39",
+      "kind": "deadline",
+      "starts_at": "2026-10-25T23:59:00+05:30",
+      "watched": true
+    },
+    {
+      "id": 19,
+      "internship_id": 9,
+      "company": "Stripe",
+      "role": "Platform Engineering Intern",
+      "color": "#b75c39",
+      "kind": "oa",
+      "starts_at": "2026-10-27T10:00:00+05:30",
+      "watched": true
+    }
+  ],
+  "health": {
+    "status": "ok",
+    "relational": "sqlite",
+    "documents": {
+      "mode": "SQLite JSON",
+      "connected": true,
+      "detail": "Local document store; set MONGODB_URI to mirror the durable outbox into MongoDB."
+    },
+    "ai": {
+      "enabled": false,
+      "mode": "Local extraction rules"
+    },
+    "timezone": "Asia/Kolkata",
+    "now": "2026-10-09T22:30:29.376372+05:30",
+    "prototype": "Single-student local demo; authentication and live integrations are not enabled."
+  },
+  "database": {
+    "engine": "sqlite",
+    "tables": [
+      {
+        "name": "application_history",
+        "rows": 4,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "application_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "previous_status",
+            "type": "VARCHAR(30)",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "new_status",
+            "type": "VARCHAR(30)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "changed_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "application_id",
+            "references": "applications.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "applications",
+        "rows": 4,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "student_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "status",
+            "type": "VARCHAR(30)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "cover_letter",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "notes",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "created_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "updated_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "student_id",
+            "references": "students.id"
+          },
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          }
+        ],
+        "constraints": [
+          "status IN ('Draft','Applied','Assessment','Interview','Offer','Rejected','Withdrawn')"
+        ]
+      },
+      {
+        "name": "bookmarks",
+        "rows": 5,
+        "columns": [
+          {
+            "name": "student_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          },
+          {
+            "column": "student_id",
+            "references": "students.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "branches",
+        "rows": 3,
+        "columns": [
+          {
+            "name": "name",
+            "type": "VARCHAR(100)",
+            "pk": true,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [],
+        "constraints": []
+      },
+      {
+        "name": "companies",
+        "rows": 12,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "name",
+            "type": "VARCHAR(120)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "color",
+            "type": "VARCHAR(20)",
+            "pk": false,
+            "nullable": true
+          }
+        ],
+        "foreign_keys": [],
+        "constraints": []
+      },
+      {
+        "name": "documents",
+        "rows": 2,
+        "columns": [
+          {
+            "name": "id",
+            "type": "VARCHAR(36)",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "kind",
+            "type": "VARCHAR(40)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "payload",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "created_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [],
+        "constraints": []
+      },
+      {
+        "name": "ingestions",
+        "rows": 0,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "source_hash",
+            "type": "VARCHAR(64)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "document_id",
+            "type": "VARCHAR(36)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "created_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "internship_branches",
+        "rows": 9,
+        "columns": [
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "branch_name",
+            "type": "VARCHAR(100)",
+            "pk": true,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "branch_name",
+            "references": "branches.name"
+          },
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "internship_skills",
+        "rows": 40,
+        "columns": [
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "skill_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          },
+          {
+            "column": "skill_id",
+            "references": "skills.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "internships",
+        "rows": 12,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "company_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "role",
+            "type": "VARCHAR(180)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "domain",
+            "type": "VARCHAR(80)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "location",
+            "type": "VARCHAR(120)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "work_mode",
+            "type": "VARCHAR(30)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "stipend",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "duration_months",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "min_cgpa",
+            "type": "FLOAT",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "eligible_year",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "experience_months",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "description",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "application_url",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "source",
+            "type": "VARCHAR(100)",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "is_demo",
+            "type": "BOOLEAN",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "created_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "company_id",
+            "references": "companies.id"
+          }
+        ],
+        "constraints": [
+          "stipend >= 0",
+          "experience_months >= 0",
+          "duration_months >= 1 AND duration_months <= 24",
+          "eligible_year >= 1 AND eligible_year <= 5",
+          "work_mode IN ('On-site','Remote','Hybrid')",
+          "min_cgpa >= 0 AND min_cgpa <= 10"
+        ]
+      },
+      {
+        "name": "preferences",
+        "rows": 4,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "student_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "kind",
+            "type": "VARCHAR(20)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "value",
+            "type": "VARCHAR(100)",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "student_id",
+            "references": "students.id"
+          }
+        ],
+        "constraints": [
+          "kind IN ('domain','location')"
+        ]
+      },
+      {
+        "name": "projects",
+        "rows": 3,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "student_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "title",
+            "type": "VARCHAR(160)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "description",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "domain",
+            "type": "VARCHAR(80)",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "student_id",
+            "references": "students.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "skills",
+        "rows": 20,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "name",
+            "type": "VARCHAR(80)",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [],
+        "constraints": []
+      },
+      {
+        "name": "student_skills",
+        "rows": 8,
+        "columns": [
+          {
+            "name": "student_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "skill_id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "student_id",
+            "references": "students.id"
+          },
+          {
+            "column": "skill_id",
+            "references": "skills.id"
+          }
+        ],
+        "constraints": []
+      },
+      {
+        "name": "students",
+        "rows": 1,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "name",
+            "type": "VARCHAR(120)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "email",
+            "type": "VARCHAR(200)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "college",
+            "type": "VARCHAR(200)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "branch",
+            "type": "VARCHAR(100)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "year",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "cgpa",
+            "type": "FLOAT",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "graduation_year",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "bio",
+            "type": "TEXT",
+            "pk": false,
+            "nullable": true
+          },
+          {
+            "name": "experience_months",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "branch",
+            "references": "branches.name"
+          }
+        ],
+        "constraints": [
+          "cgpa >= 0 AND cgpa <= 10",
+          "experience_months >= 0",
+          "year >= 1 AND year <= 5"
+        ]
+      },
+      {
+        "name": "timeline_events",
+        "rows": 26,
+        "columns": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "pk": true,
+            "nullable": false
+          },
+          {
+            "name": "internship_id",
+            "type": "INTEGER",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "kind",
+            "type": "VARCHAR(20)",
+            "pk": false,
+            "nullable": false
+          },
+          {
+            "name": "starts_at",
+            "type": "DATETIME",
+            "pk": false,
+            "nullable": false
+          }
+        ],
+        "foreign_keys": [
+          {
+            "column": "internship_id",
+            "references": "internships.id"
+          }
+        ],
+        "constraints": [
+          "kind IN ('deadline','oa','ppt')"
+        ]
+      }
+    ],
+    "documents": [
+      {
+        "id": "ee18df0c-0d03-415a-aa45-6a0dbb2a721a",
+        "kind": "announcement",
+        "payload": {
+          "source_message": "Microsoft — Software Engineering Intern\\nSkills: Python, C++, DSA\\nEligible: 3rd year students\\nMinimum CGPA: 7.5",
+          "mode": "Demo dataset",
+          "note": "Fictional announcement. Imported records retain their complete source text and reviewed extraction."
+        },
+        "created_at": "2026-10-09T17:00:28.980946"
+      },
+      {
+        "id": "c7503ed0-3094-4378-af04-5f43b2fb7196",
+        "kind": "resume_version",
+        "payload": {
+          "filename": "demo-profile.txt",
+          "mode": "Demo dataset",
+          "skills": [
+            "Python",
+            "React",
+            "C++",
+            "SQL"
+          ],
+          "note": "Fictional student profile for demonstration."
+        },
+        "created_at": "2026-10-09T17:00:28.980941"
+      }
+    ],
+    "document_store": {
+      "mode": "SQLite JSON",
+      "connected": true,
+      "detail": "Local document store; set MONGODB_URI to mirror the durable outbox into MongoDB."
+    },
+    "queries": [
+      {
+        "id": "opportunities",
+        "title": "Company + opportunity join",
+        "concept": "INNER JOIN · projection · ordering",
+        "sql": "SELECT c.name AS company, i.role, i.location, i.stipend, i.min_cgpa\nFROM internships i JOIN companies c ON c.id = i.company_id\nORDER BY i.stipend DESC LIMIT 50"
+      },
+      {
+        "id": "skills",
+        "title": "Most requested skills",
+        "concept": "Many-to-many · GROUP BY · COUNT",
+        "sql": "SELECT s.name AS skill, COUNT(isk.internship_id) AS opportunities\nFROM skills s JOIN internship_skills isk ON isk.skill_id = s.id\nGROUP BY s.id, s.name ORDER BY opportunities DESC LIMIT 50"
+      },
+      {
+        "id": "applications",
+        "title": "Student application pipeline",
+        "concept": "Four-table join · foreign keys",
+        "sql": "SELECT s.name AS student, c.name AS company, i.role, a.status\nFROM applications a\nJOIN students s ON s.id = a.student_id\nJOIN internships i ON i.id = a.internship_id\nJOIN companies c ON c.id = i.company_id\nORDER BY a.updated_at DESC LIMIT 50"
+      },
+      {
+        "id": "eligible",
+        "title": "Eligibility using relational filters",
+        "concept": "CROSS JOIN · WHERE · hard constraints",
+        "sql": "SELECT c.name AS company, i.role, i.min_cgpa, s.cgpa AS student_cgpa\nFROM students s CROSS JOIN internships i\nJOIN companies c ON c.id = i.company_id\nWHERE s.id = 1 AND s.cgpa >= i.min_cgpa AND s.year = i.eligible_year\nAND (NOT EXISTS (SELECT 1 FROM internship_branches ib WHERE ib.internship_id = i.id)\n     OR EXISTS (SELECT 1 FROM internship_branches ib\n                WHERE ib.internship_id = i.id AND ib.branch_name = s.branch))\nORDER BY i.min_cgpa DESC LIMIT 50"
+      },
+      {
+        "id": "history",
+        "title": "Transactional status history",
+        "concept": "Audit trail · atomic state changes",
+        "sql": "SELECT c.name AS company, h.previous_status, h.new_status, h.changed_at\nFROM application_history h\nJOIN applications a ON a.id = h.application_id\nJOIN internships i ON i.id = a.internship_id\nJOIN companies c ON c.id = i.company_id\nORDER BY h.changed_at DESC LIMIT 50"
+      },
+      {
+        "id": "deadlines",
+        "title": "Upcoming timelines",
+        "concept": "Temporal records · JOIN · index",
+        "sql": "SELECT c.name AS company, i.role, t.kind AS event, t.starts_at\nFROM timeline_events t\nJOIN internships i ON i.id = t.internship_id\nJOIN companies c ON c.id = i.company_id\nORDER BY t.starts_at LIMIT 50"
+      }
+    ]
+  },
+  "skill-gaps": {
+    "roadmap": [
+      {
+        "skill": "Docker",
+        "demand": 4,
+        "unlocks": 1,
+        "companies": [
+          "Atlassian",
+          "Amazon",
+          "Zepto",
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "demand": 2,
+        "unlocks": 1,
+        "companies": [
+          "Amazon",
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "Linux",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "Machine Learning",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Google"
+        ],
+        "unlocked_companies": [
+          "Google"
+        ]
+      },
+      {
+        "skill": "PyTorch",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Google"
+        ],
+        "unlocked_companies": [
+          "Google"
+        ]
+      },
+      {
+        "skill": "CSS",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Excel",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Deloitte"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Figma",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "HTML",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Java",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "UPL"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Node.js",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Swiggy"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Power BI",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Deloitte"
+        ],
+        "unlocked_companies": []
+      }
+    ],
+    "simulation": [
+      {
+        "id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "before": 100,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 2,
+        "company": "Razorpay",
+        "role": "Frontend Engineering Intern",
+        "before": 100,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 3,
+        "company": "Atlassian",
+        "role": "Software Development Intern",
+        "before": 87,
+        "after": 87,
+        "eligible": true
+      },
+      {
+        "id": 4,
+        "company": "Google",
+        "role": "Student Researcher · ML",
+        "before": 73,
+        "after": 73,
+        "eligible": true
+      },
+      {
+        "id": 5,
+        "company": "Amazon",
+        "role": "Cloud Engineering Intern",
+        "before": 80,
+        "after": 80,
+        "eligible": true
+      },
+      {
+        "id": 6,
+        "company": "Deloitte",
+        "role": "Data Analytics Intern",
+        "before": 65,
+        "after": 65,
+        "eligible": true
+      },
+      {
+        "id": 7,
+        "company": "Zepto",
+        "role": "Backend Engineering Intern",
+        "before": 87,
+        "after": 87,
+        "eligible": true
+      },
+      {
+        "id": 8,
+        "company": "Adobe",
+        "role": "UX Design Intern",
+        "before": 35,
+        "after": 35,
+        "eligible": true
+      },
+      {
+        "id": 9,
+        "company": "Stripe",
+        "role": "Platform Engineering Intern",
+        "before": 70,
+        "after": 70,
+        "eligible": true
+      },
+      {
+        "id": 10,
+        "company": "NVIDIA",
+        "role": "Deep Learning Intern",
+        "before": 49,
+        "after": 49,
+        "eligible": false
+      },
+      {
+        "id": 11,
+        "company": "Swiggy",
+        "role": "Full Stack Intern",
+        "before": 90,
+        "after": 90,
+        "eligible": true
+      },
+      {
+        "id": 12,
+        "company": "UPL",
+        "role": "Software Intern",
+        "before": 87,
+        "after": 87,
+        "eligible": true
+      }
+    ],
+    "threshold": 80,
+    "before": 7,
+    "after": 7
+  },
+  "skill-simulation": {
+    "roadmap": [
+      {
+        "skill": "Docker",
+        "demand": 4,
+        "unlocks": 1,
+        "companies": [
+          "Atlassian",
+          "Amazon",
+          "Zepto",
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "AWS",
+        "demand": 2,
+        "unlocks": 1,
+        "companies": [
+          "Amazon",
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "Linux",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Stripe"
+        ],
+        "unlocked_companies": [
+          "Stripe"
+        ]
+      },
+      {
+        "skill": "Machine Learning",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Google"
+        ],
+        "unlocked_companies": [
+          "Google"
+        ]
+      },
+      {
+        "skill": "PyTorch",
+        "demand": 1,
+        "unlocks": 1,
+        "companies": [
+          "Google"
+        ],
+        "unlocked_companies": [
+          "Google"
+        ]
+      },
+      {
+        "skill": "CSS",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Excel",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Deloitte"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Figma",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "HTML",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Adobe"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Java",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "UPL"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Node.js",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Swiggy"
+        ],
+        "unlocked_companies": []
+      },
+      {
+        "skill": "Power BI",
+        "demand": 1,
+        "unlocks": 0,
+        "companies": [
+          "Deloitte"
+        ],
+        "unlocked_companies": []
+      }
+    ],
+    "simulation": [
+      {
+        "id": 1,
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "before": 100,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 2,
+        "company": "Razorpay",
+        "role": "Frontend Engineering Intern",
+        "before": 100,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 3,
+        "company": "Atlassian",
+        "role": "Software Development Intern",
+        "before": 87,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 4,
+        "company": "Google",
+        "role": "Student Researcher · ML",
+        "before": 73,
+        "after": 73,
+        "eligible": true
+      },
+      {
+        "id": 5,
+        "company": "Amazon",
+        "role": "Cloud Engineering Intern",
+        "before": 80,
+        "after": 90,
+        "eligible": true
+      },
+      {
+        "id": 6,
+        "company": "Deloitte",
+        "role": "Data Analytics Intern",
+        "before": 65,
+        "after": 65,
+        "eligible": true
+      },
+      {
+        "id": 7,
+        "company": "Zepto",
+        "role": "Backend Engineering Intern",
+        "before": 87,
+        "after": 100,
+        "eligible": true
+      },
+      {
+        "id": 8,
+        "company": "Adobe",
+        "role": "UX Design Intern",
+        "before": 35,
+        "after": 35,
+        "eligible": true
+      },
+      {
+        "id": 9,
+        "company": "Stripe",
+        "role": "Platform Engineering Intern",
+        "before": 70,
+        "after": 80,
+        "eligible": true
+      },
+      {
+        "id": 10,
+        "company": "NVIDIA",
+        "role": "Deep Learning Intern",
+        "before": 49,
+        "after": 49,
+        "eligible": false
+      },
+      {
+        "id": 11,
+        "company": "Swiggy",
+        "role": "Full Stack Intern",
+        "before": 90,
+        "after": 90,
+        "eligible": true
+      },
+      {
+        "id": 12,
+        "company": "UPL",
+        "role": "Software Intern",
+        "before": 87,
+        "after": 87,
+        "eligible": true
+      }
+    ],
+    "threshold": 80,
+    "before": 7,
+    "after": 8
+  },
+  "query-result": {
+    "columns": [
+      "company",
+      "role",
+      "location",
+      "stipend",
+      "min_cgpa"
+    ],
+    "rows": [
+      {
+        "company": "Stripe",
+        "role": "Platform Engineering Intern",
+        "location": "Remote",
+        "stipend": 70000,
+        "min_cgpa": 8.0
+      },
+      {
+        "company": "Google",
+        "role": "Student Researcher · ML",
+        "location": "Bengaluru",
+        "stipend": 65000,
+        "min_cgpa": 8.0
+      },
+      {
+        "company": "Atlassian",
+        "role": "Software Development Intern",
+        "location": "Remote",
+        "stipend": 60000,
+        "min_cgpa": 7.5
+      },
+      {
+        "company": "NVIDIA",
+        "role": "Deep Learning Intern",
+        "location": "Pune",
+        "stipend": 60000,
+        "min_cgpa": 9.0
+      },
+      {
+        "company": "Amazon",
+        "role": "Cloud Engineering Intern",
+        "location": "Bengaluru",
+        "stipend": 55000,
+        "min_cgpa": 7.0
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "location": "Bengaluru",
+        "stipend": 50000,
+        "min_cgpa": 7.5
+      },
+      {
+        "company": "Razorpay",
+        "role": "Frontend Engineering Intern",
+        "location": "Bengaluru",
+        "stipend": 45000,
+        "min_cgpa": 7.0
+      },
+      {
+        "company": "Zepto",
+        "role": "Backend Engineering Intern",
+        "location": "Bengaluru",
+        "stipend": 40000,
+        "min_cgpa": 7.0
+      },
+      {
+        "company": "Adobe",
+        "role": "UX Design Intern",
+        "location": "Remote",
+        "stipend": 40000,
+        "min_cgpa": 7.0
+      },
+      {
+        "company": "Swiggy",
+        "role": "Full Stack Intern",
+        "location": "Bengaluru",
+        "stipend": 35000,
+        "min_cgpa": 7.0
+      },
+      {
+        "company": "Deloitte",
+        "role": "Data Analytics Intern",
+        "location": "Hyderabad",
+        "stipend": 30000,
+        "min_cgpa": 6.5
+      },
+      {
+        "company": "UPL",
+        "role": "Software Intern",
+        "location": "Remote",
+        "stipend": 25000,
+        "min_cgpa": 6.0
+      }
+    ]
+  },
+  "extraction": {
+    "data": {
+      "company": "Nova Labs",
+      "role": "Software Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "Hybrid",
+      "stipend": 35000,
+      "duration_months": 3,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "CSE, ISE, ECE",
+      "experience_months": 0,
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker"
+      ],
+      "description": "Company: Nova Labs\nRole: Software Engineering Intern\nDomain: Software Development\nLocation: Bengaluru\nWork mode: Hybrid\nStipend: ₹35,000\nDuration: 3 months\nEligible: 3rd year students\nMinimum CGPA: 7.0\nBranches: CSE, ISE, ECE\nSkills: Python, SQL, Docker\nDeadline: 2026-10-29T22:30:29.608013+05:30",
+      "application_url": "",
+      "deadline": "2026-10-29T22:30:29.608013+05:30",
+      "oa": null,
+      "ppt": null
+    },
+    "mode": "Local rules",
+    "warnings": []
+  },
+  "new-opportunity": {
+    "id": 13,
+    "role": "Software Engineering Intern",
+    "domain": "Software Development",
+    "location": "Bengaluru",
+    "work_mode": "Hybrid",
+    "stipend": 35000,
+    "duration_months": 3,
+    "min_cgpa": 7.0,
+    "eligible_year": 3,
+    "eligible_branch": "CSE, ISE, ECE",
+    "experience_months": 0,
+    "description": "Company: Nova Labs\nRole: Software Engineering Intern\nDomain: Software Development\nLocation: Bengaluru\nWork mode: Hybrid\nStipend: ₹35,000\nDuration: 3 months\nEligible: 3rd year students\nMinimum CGPA: 7.0\nBranches: CSE, ISE, ECE\nSkills: Python, SQL, Docker\nDeadline: 2026-10-29T22:30:29.608013+05:30",
+    "application_url": "",
+    "source": "Pasted announcement",
+    "is_demo": false,
+    "company": "Nova Labs",
+    "color": "#b29037",
+    "skills": [
+      "Python",
+      "SQL",
+      "Docker"
+    ],
+    "dates": {
+      "deadline": "2026-10-29T22:30:29.608013+05:30"
+    },
+    "closed": false,
+    "bookmarked": false,
+    "application": null,
+    "match": {
+      "score": 87,
+      "eligible": true,
+      "eligibility_reasons": [],
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "missing_skills": [
+        "Docker"
+      ],
+      "factors": [
+        {
+          "name": "Skills",
+          "score": 26.7,
+          "max": 40,
+          "detail": "2 of 3 required skills"
+        },
+        {
+          "name": "Eligibility",
+          "score": 20,
+          "max": 20,
+          "detail": "CGPA, year and branch requirements met"
+        },
+        {
+          "name": "Projects",
+          "score": 15,
+          "max": 15,
+          "detail": "3 relevant projects"
+        },
+        {
+          "name": "Experience",
+          "score": 10,
+          "max": 10,
+          "detail": "No prior experience required"
+        },
+        {
+          "name": "Domain",
+          "score": 10,
+          "max": 10,
+          "detail": "Software Development"
+        },
+        {
+          "name": "Location",
+          "score": 5,
+          "max": 5,
+          "detail": "Bengaluru"
+        }
+      ],
+      "uncapped_score": 87
+    }
+  },
+  "prepared-app": {
+    "id": 5,
+    "internship": {
+      "id": 7,
+      "role": "Backend Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "On-site",
+      "stipend": 40000,
+      "duration_months": 6,
+      "min_cgpa": 7.0,
+      "eligible_year": 3,
+      "eligible_branch": "Any",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Zepto",
+      "color": "#426447",
+      "skills": [
+        "Python",
+        "SQL",
+        "Docker"
+      ],
+      "dates": {
+        "deadline": "2026-10-21T23:59:00+05:30",
+        "oa": "2026-10-23T10:00:00+05:30",
+        "ppt": "2026-10-20T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": {
+        "id": 5,
+        "status": "Draft"
+      },
+      "match": {
+        "score": 87,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "SQL"
+        ],
+        "missing_skills": [
+          "Docker"
+        ],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 26.7,
+            "max": 40,
+            "detail": "2 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 87
+      }
+    },
+    "status": "Draft",
+    "notes": "",
+    "cover_letter": "Dear Zepto hiring team,\n\nI am Alex Morgan, a year 3 CSE student at RV College of Engineering. I would like to apply for the Backend Engineering Intern opportunity.\n\nMy skills include Python, SQL. Through Campus Connect, QueryCraft, I have practiced turning ideas into working projects. I am interested in contributing to your team and learning through hands-on work.\n\nI would appreciate the opportunity to discuss how my background aligns with this internship. Thank you for considering my application.\n\nBest regards,\nAlex Morgan\nalex@example.com",
+    "created_at": "2026-10-09T17:00:29.661503+00:00",
+    "updated_at": "2026-10-09T17:00:29.661508+00:00",
+    "answers": {
+      "Full name": "Alex Morgan",
+      "Email": "alex@example.com",
+      "College": "RV College of Engineering",
+      "Branch": "CSE",
+      "CGPA": "8.6",
+      "Graduation year": "2028",
+      "Relevant skills": "Python, SQL"
+    },
+    "history": [
+      {
+        "from": null,
+        "to": "Draft",
+        "at": "2026-10-09T17:00:29.663599+00:00"
+      }
+    ]
+  },
+  "existing-app": {
+    "id": 1,
+    "internship": {
+      "id": 1,
+      "role": "Software Engineering Intern",
+      "domain": "Software Development",
+      "location": "Bengaluru",
+      "work_mode": "Hybrid",
+      "stipend": 50000,
+      "duration_months": 6,
+      "min_cgpa": 7.5,
+      "eligible_year": 3,
+      "eligible_branch": "CSE, ECE, ISE",
+      "experience_months": 0,
+      "description": "Work alongside an experienced team to solve meaningful engineering problems. Build, test and ship real features, participate in technical reviews, and develop your skills with a dedicated mentor. This is a fictional opportunity for the InternFlow course demonstration.",
+      "application_url": "",
+      "source": "Demo dataset",
+      "is_demo": true,
+      "company": "Microsoft",
+      "color": "#b29037",
+      "skills": [
+        "Python",
+        "C++",
+        "DSA"
+      ],
+      "dates": {
+        "deadline": "2026-10-12T23:59:00+05:30",
+        "oa": "2026-10-14T10:00:00+05:30",
+        "ppt": "2026-10-11T14:00:00+05:30"
+      },
+      "closed": false,
+      "bookmarked": true,
+      "application": {
+        "id": 1,
+        "status": "Assessment"
+      },
+      "match": {
+        "score": 100,
+        "eligible": true,
+        "eligibility_reasons": [],
+        "matched_skills": [
+          "Python",
+          "C++",
+          "DSA"
+        ],
+        "missing_skills": [],
+        "factors": [
+          {
+            "name": "Skills",
+            "score": 40.0,
+            "max": 40,
+            "detail": "3 of 3 required skills"
+          },
+          {
+            "name": "Eligibility",
+            "score": 20,
+            "max": 20,
+            "detail": "CGPA, year and branch requirements met"
+          },
+          {
+            "name": "Projects",
+            "score": 15,
+            "max": 15,
+            "detail": "3 relevant projects"
+          },
+          {
+            "name": "Experience",
+            "score": 10,
+            "max": 10,
+            "detail": "No prior experience required"
+          },
+          {
+            "name": "Domain",
+            "score": 10,
+            "max": 10,
+            "detail": "Software Development"
+          },
+          {
+            "name": "Location",
+            "score": 5,
+            "max": 5,
+            "detail": "Bengaluru"
+          }
+        ],
+        "uncapped_score": 100
+      }
+    },
+    "status": "Assessment",
+    "notes": "Demo application. No external submission was made.",
+    "cover_letter": "Dear Microsoft hiring team,\n\nI am Alex Morgan, a year 3 CSE student at RV College of Engineering. I would like to apply for the Software Engineering Intern opportunity.\n\nMy skills include Python, C++, DSA. Through Campus Connect, QueryCraft, I have practiced turning ideas into working projects. I am interested in contributing to your team and learning through hands-on work.\n\nI would appreciate the opportunity to discuss how my background aligns with this internship. Thank you for considering my application.\n\nBest regards,\nAlex Morgan\nalex@example.com",
+    "created_at": "2026-10-09T17:00:28.932134+00:00",
+    "updated_at": "2026-10-09T17:00:28.932141+00:00",
+    "answers": {
+      "Full name": "Alex Morgan",
+      "Email": "alex@example.com",
+      "College": "RV College of Engineering",
+      "Branch": "CSE",
+      "CGPA": "8.6",
+      "Graduation year": "2028",
+      "Relevant skills": "Python, C++, DSA"
+    },
+    "history": [
+      {
+        "from": null,
+        "to": "Assessment",
+        "at": "2026-10-09T17:00:28.934840+00:00"
+      }
+    ]
+  }
+}
